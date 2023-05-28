@@ -1,4 +1,4 @@
 Chapter 1: Git introduction
 Chapter 2: basic workflows
-Chapter 3: remotes repositories
-
+Chapter 3: branches management
+Chapter 4: remotes repositories
